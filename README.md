@@ -60,5 +60,6 @@ Os valores são atualizados **em tempo real**, sem poluir o terminal, utilizando
 ```bash
 git clone https://github.com/seu-usuario/medidor-rede-cli.git
 cd medidor-rede-cli
+Python Monitor_velocidade.py
 
 
