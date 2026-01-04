@@ -2,8 +2,6 @@
 
 Ferramenta em **Python** para monitoramento de **upload e download da interface de rede**, executada diretamente no terminal, com exibição em tempo real, emojis dinâmicos, cores ANSI e geração de relatório final.
 
----
-
 ## 📌 Visão Geral
 
 Este projeto implementa um **medidor de tráfego de rede em tempo real**, utilizando a biblioteca `psutil` para coletar estatísticas da interface de rede do sistema operacional.
@@ -15,8 +13,6 @@ A aplicação é executada no **terminal (CLI)** e exibe, a cada segundo:
 - Emojis dinâmicos conforme intensidade do tráfego
 - Registro de picos de upload e download
 - Relatório final detalhado ao encerrar a execução
-
----
 
 ## 🖥️ Funcionamento no Terminal
 
@@ -40,8 +36,6 @@ Os valores são atualizados **em tempo real**, sem poluir o terminal, utilizando
 - 📄 Geração opcional de relatório em arquivo `.txt`
 - ⛔ Finalização segura com `Ctrl + C`
 
----
-
 ## 📦 Tecnologias Utilizadas
 
 - **Python 3**
@@ -49,8 +43,6 @@ Os valores são atualizados **em tempo real**, sem poluir o terminal, utilizando
 - Biblioteca padrão:
   - `time`
   - `datetime`
-
----
 
 ## 📥 Instalação
 
