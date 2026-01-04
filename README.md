@@ -18,7 +18,8 @@ A aplicação é executada no **terminal (CLI)** e exibe, a cada segundo:
 
 Durante a execução, o programa mostra:
 
-🕒 21:45:10 | 📶 ↓ 1.234 Mbps | ⚡ ↑ 0.512 Mbps
+### 🚀Medidor de Rede - Pressione Ctrl+C para sair
+### 🕒 21:45:10 | 📶 ↓ 1.234 Mbps | ⚡ ↑ 0.512 Mbps
 
 
 Os valores são atualizados **em tempo real**, sem poluir o terminal, utilizando controle de cursor ANSI.
