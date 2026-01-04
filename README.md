@@ -1,4 +1,4 @@
-# 🚀 Medidor de Uso de Rede em Tempo Real (CLI)
+# Medidor de Uso de Rede em Tempo Real (CLI)
 
 Ferramenta em **Python** para monitoramento de **upload e download da interface de rede**, executada diretamente no terminal, com exibição em tempo real, emojis dinâmicos, cores ANSI e geração de relatório final.
 
