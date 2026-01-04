@@ -50,7 +50,11 @@ Os valores são atualizados **em tempo real**, sem poluir o terminal, utilizando
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/medidor-rede-cli.git
+```
+```bash
 cd medidor-rede-cli
+```
+```bash
 Python Monitor_velocidade.py
 ```
 
