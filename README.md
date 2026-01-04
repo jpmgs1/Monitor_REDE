@@ -27,8 +27,6 @@ Durante a execução, o programa mostra:
 
 Os valores são atualizados **em tempo real**, sem poluir o terminal, utilizando controle de cursor ANSI.
 
----
-
 ## 🎯 Funcionalidades
 
 - ⏱️ Monitoramento contínuo (1 segundo de intervalo)
