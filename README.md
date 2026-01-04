@@ -52,4 +52,16 @@ git clone https://github.com/seu-usuario/medidor-rede-cli.git
 cd medidor-rede-cli
 Python Monitor_velocidade.py
 
+⚠️ Observações Importantes
+
+O monitoramento utiliza os contadores globais de rede do sistema
+Funciona em Windows, Linux e macOS
+As cores ANSI podem não funcionar corretamente em terminais muito antigos
+Necessário executar com permissões normais (não precisa ser root)
+
+👤 Autor
+
+João Paulo (@jpmgs)
+📚 Redes de Computadores – IFRN
+💻 Python | Redes | Monitoramento | Segurança
 
